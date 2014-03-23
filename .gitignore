@@ -1,0 +1,6 @@
+# Python artifacts
+*.pyc
+
+# tox artifacts
+MANIFEST
+.tox/
