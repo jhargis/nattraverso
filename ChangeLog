@@ -1,3 +1,11 @@
+*Work In Progress* Chapman Shoop <chapman.shoop@gmail.com>
+    
+    * Release 1.0.0
+
+    * Add tox and Travis-CI testing.
+
+    * Update to support pip installation.
+
 Sat Aug 27 22:55:24 GMT 2005  Raphael Slinckx <raphael@slinckx.net>
 
 	* Fix an issue wih upnp soap requests,
